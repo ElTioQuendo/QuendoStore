@@ -1,0 +1,12 @@
+{
+    "storeInfo": {
+        "title": "QuendoStore",
+        "author": "QuendoStore Team",
+        "description": "Catálogo comunitario de homebrew, proyectos propios, parches y recursos compatibles con Nintendo 3DS.",
+        "file": "QuendoStore.unistore",
+        "url": "https://TU-USUARIO.github.io/QuendoStore/QuendoStore.unistore",
+        "version": 3,
+        "revision": 1
+    },
+    "storeContent": []
+}
